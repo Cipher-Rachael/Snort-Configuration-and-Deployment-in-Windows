@@ -1,4 +1,4 @@
-# Snort-Configuration-and-deployment
+# Snort-Configuration-and-Deployment in Windows
 
 ### 1. **Objectives**:
 - To install and configure Snort as a Network Intrusion Detection System (NIDS).
